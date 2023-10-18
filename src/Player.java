@@ -19,12 +19,5 @@ class Player {
         }
     }
 
-    public void setNameOfSong(Song nameOfSong) {
-        this.nameOfSong = nameOfSong;
-    }
-
-    public String returnSong() {
-        return nameOfSong.name;
-    }
 }
 

@@ -1,4 +1,9 @@
 package ui.registration;
 
-public class RegistrationScreen {
+class RegistrationScreen {
+
+}
+
+class Registrationscreen {
+
 }

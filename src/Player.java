@@ -2,12 +2,14 @@ import ui.Screen;
 
 class Player {
     private Song nameOfSong;
+    private Song nameOfSong2;
 
     public Player(Song nameOfSong) {
         this.nameOfSong = nameOfSong;
     }
 
     static class Song {
+
         public String name;
 
         public Song(String name) {

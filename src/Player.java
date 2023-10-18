@@ -10,6 +10,8 @@ class Player {
     private Song nameOfSong7;
     private Song nameOfSong8;
     private Song nameOfSong9;
+    private Song nameOfSong12;
+    private Song nameOfSong11;
 
     public Player(Song nameOfSong) {
         this.nameOfSong = nameOfSong;
